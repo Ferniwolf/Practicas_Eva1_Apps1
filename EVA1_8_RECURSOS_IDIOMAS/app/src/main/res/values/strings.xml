@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EVA1_8_RECURSOS_IDIOMA</string>
+    <string name="rd_espa_es">Español</string>
+    <string name="rd_espa_en">Spanish</string>
+    <string name="rd_ingles_es">Ingles</string>
+    <string name="rd_ingles_en">English</string>
+
+    <string name="tv_nombre_es">Nombre:</string>
+    <string name="tv_nombre_en">Name:</string>
+    <string name="et_nomre_es">Introduce Nombre</string>
+    <string name="et_nomre_en">First name input</string>
+
+    <string name="tv_apellido_es">Apellido:</string>
+    <string name="tv_apellido_en">Last Name:</string>
+    <string name="et_apellido_es">Introduce Apellido</string>
+    <string name="et_apellido_en">Last Name input</string>
+
+    <string name="tv_edad_es">Edad:</string>
+    <string name="tv_edad_en">Age:</string>
+    <string name="et_edad_es">Introduce Edad</string>
+    <string name="et_edad_en">Age input</string>
+
+</resources>
